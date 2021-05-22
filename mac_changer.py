@@ -54,7 +54,3 @@ def ifconfig(interface):
 options = arguments()
 mac_changer(options.interface, options.mac)
 ifconfig(options.interface)
-
-
-
-
