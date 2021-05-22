@@ -4,5 +4,5 @@
 
     * In order to run the program: 
       ```
-       sudo python3 -i <interface> -m <mac address>
+       sudo python3 mac_changer.py -i <interface> -m <mac address>
       ```
